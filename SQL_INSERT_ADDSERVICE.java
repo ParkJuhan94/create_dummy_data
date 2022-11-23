@@ -1,5 +1,8 @@
-/*
+package SQL_INSERT_VERSION;/*
     한 개 행을 가지고 더미데이터를 만들어주는 프로그램
+    
+    [입력]
+    305	732	1367 1523 5092 118 466 137 1537	4736 3438 1246 5027	1019 3500 173 1474 3952 2321 5398 875 4026 2465 743 1780 1000 668 127
  */
 import java.io.BufferedReader;
 import java.io.FileInputStream;
@@ -35,8 +38,6 @@ public class Main {
         range_date = 400;
         data = new int[range_date][field.length];
         now = LocalDate.now();
-
-//        System.out.println(field.length);
 
         // 제일 최신 날짜의 데이터 입력받기
         for(int i = 0; i < field.length; i++){
