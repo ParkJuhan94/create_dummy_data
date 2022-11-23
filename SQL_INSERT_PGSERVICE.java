@@ -4,7 +4,7 @@ package SQL_INSERT_PGSERVICE;
     한 개 행을 가지고 더미데이터를 만들어주는 프로그램
     
     [입력]
-    1176	553	596	77	193	0	643	67	1	1071	756	241	843	984	608	160	46	79	161	289
+    1176 553 596 77 193	0 643 67 1 1071	756	241	843	984	608	160	46 79 161 289
  */
 import java.io.BufferedReader;
 import java.io.FileInputStream;
