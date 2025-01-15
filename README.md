@@ -1,3 +1,4 @@
-# create_dummy_data
-- 하나의 행을 가지고, 원하는 더미 data를 만드는 mySQL 의 쿼리문을 만들어서 콘솔에 출력합니다. 
+- https://github.com/ParkJuhan94/store_stats_backOffice 의 테스트용 더미 data를 만듭니다.
+- 각 테이블에서 하나의 Row 예제 데이터를 입력합니다.
+- 다수의 더미 data를 만들 수 있는 mySQL 쿼리문이 콘솔에 출력됩니다.
 - 출력문을 copy &amp; paste 하여 사용합니다.
